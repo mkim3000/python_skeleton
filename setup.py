@@ -5,7 +5,7 @@ except ImportError:
 
 config = {
     'description': 'M Project',
-    'author': 'My Name',
+    'author': 'Michael Kim',
     'url': 'URL to get it at.',
     'download_url': 'Where to download it.',
     'author_email': 'My email.',
