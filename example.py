@@ -4,7 +4,7 @@
 
 Usage:
 
-        python3 words.py <URL>
+        python3 example.py <URL>
 “””
 
 import sys
