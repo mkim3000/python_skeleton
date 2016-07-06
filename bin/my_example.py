@@ -5,6 +5,11 @@
 Usage:
 
         python3 example.py <URL>
+        
+        OR
+        
+        chmod a+x example.py
+        ./example <URL>
 “””
 
 import sys
